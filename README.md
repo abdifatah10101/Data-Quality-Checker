@@ -18,3 +18,7 @@ The goal was to understand how data engineers clean and verify data before it’
 
 - Clean Data: [{'name': 'John Doe', 'email': 'john@example.com', 'sales': 150}]
 - Bad Data: [{'name': 'Alice', 'email': 'alice@', 'sales': -20}, {'name': '', 'email': 'bob@example.com', 'sales': 90}]
+
+
+## What I Learned
+This helped me understand how data validation logic works in ETL and pipeline workflows. It’s a small project, but it shows how simple checks can be used to make sure only clean data gets processed.
